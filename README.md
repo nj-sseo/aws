@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# RepForAWS
-AWS
-=======
-# aws
->>>>>>> 9bbaac5e060d54e2cf97a4f981072f8b356b5637
+#README
+
+캠프들은 내용을 그대로 적은 것임.
+
+from: https://github.com/boomkim/handong-AWS-camp
